@@ -1,0 +1,1 @@
+<template>  <div>    <h2>数据监控</h2>  </div></template><style lang="scss"></style>
