@@ -30,7 +30,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mock": "^0.1.1",
     "node-sass": "^4.9.0",
     "qs": "^6.7.0",
